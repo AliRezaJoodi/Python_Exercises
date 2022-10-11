@@ -1,2 +1,1 @@
-# Python_Exercises
- Python Exercises
+It's my **Python programming** exercises.
