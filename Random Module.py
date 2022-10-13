@@ -13,3 +13,6 @@ print("Random Number (5 to 10): ", number)
 
 name = ['Ali', 'Bob','Daniel', 'Hoouk', 'Starwalker']
 print("Random Name: ", random.choice(name))
+
+txt="!#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~"
+print("Password Generator: ", random.sample(txt,8))
