@@ -1,5 +1,5 @@
-# My Account:   GitHub.com/AliRezaJoodi
-# Source Link:  https://www.w3schools.com/python/python_strings_format.asp
+# My GitHub:  		GitHub.com/AliRezaJoodi
+# Source Link:  	W3Schools.com/python/python_strings_format.asp
 
 age = 36
 txt = "Bab is " + str(age) + " years old."
