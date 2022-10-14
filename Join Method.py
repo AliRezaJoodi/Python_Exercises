@@ -1,4 +1,4 @@
-# https://github.com/AliRezaJoodi
+# GitHub.com/AliRezaJoodi
 
 myTuple = ("John", "Peter", "Vicky")
 myStr = "-".join(myTuple)
