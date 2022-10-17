@@ -46,6 +46,7 @@ Separate multiple words with an underscore.
 For examples:
 - function
 - my_function	(snake case)
+
 Templates to use:
 - get_x
 - read_x
@@ -82,6 +83,7 @@ For examples:
 
 ### Kebab case examples::
 - this-is-kebab-case
+
 Note: The use of kebab case tends to be discouraged, as the dash can be misread as a subtraction operation.
 
 ### snake case examples:
