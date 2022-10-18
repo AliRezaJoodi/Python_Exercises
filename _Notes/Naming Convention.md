@@ -48,10 +48,13 @@ For examples:
 - my_function	(snake case)
 
 Templates to use:
+- entry_x
 - get_x
 - read_x
 - check_x
 - generate_x
+- convert_x 
+- put_x
 
 ### Global Variables:
 ### Local Variables:
