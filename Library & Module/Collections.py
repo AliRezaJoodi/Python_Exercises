@@ -1,6 +1,6 @@
 # My GitHub:  		GitHub.com/AliRezaJoodi
 
-from Display import display
+from display import *
 
 def Anagrams():
     from collections import defaultdict

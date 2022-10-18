@@ -1,7 +1,7 @@
 # My GitHub:  		GitHub.com/AliRezaJoodi
 # Source Link:      https://www.w3schools.com/python/python_datetime.asp
 
-from Dispaly import dispaly
+from display import *
 
 def datetime_today():
     from datetime import datetime
